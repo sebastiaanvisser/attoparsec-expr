@@ -22,5 +22,5 @@ Library
 
 Source-repository head
   type:     git
-  location: https://github.com/sfvisser/attoparsec-expr
+  location: https://github.com/sebastiaanvisser/attoparsec-expr
 
